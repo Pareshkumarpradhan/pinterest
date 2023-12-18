@@ -1,0 +1,17 @@
+login screen register
+profile
+pins
+feed
+save
+board creation
+logout
+protected route
+
+
+
+Packages
+express
+express generator
+multer ---> upload images
+passport
+mongoose
